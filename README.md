@@ -5,7 +5,7 @@ Creat and account and get the API key
 
 Step 1. Install NodeJS
 
-Step 2. Clnoe the repo
+Step 2. Clone the repo
 
 Step 3. Open the directory in Commandline
 
